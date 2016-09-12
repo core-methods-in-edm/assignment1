@@ -1,7 +1,7 @@
 # Assignment 1
 
 
-In this assignment you will be setting up the software and online tools that you will be using throughout this course. Below there are links and instructions to relevant sites. If you have any problems, you can tweet them using the hashtag #TCLA16, or you can create an [*issue* within this repository](https://github.com/data-science-in-ed/Assignment1a/issues). 
+In this assignment you will be setting up the software and online tools that you will be using throughout this course. Below there are links and instructions to relevant sites. If you have any problems, you can tweet them using the hashtag #TCLA16. 
 
 The first stop is to create the accounts we will be using: 
 
