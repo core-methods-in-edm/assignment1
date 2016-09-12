@@ -60,9 +60,12 @@ Connecting Github to RStudio: [The Molecular Ecologist](http://www.molecularecol
 
 The file hudk4050-references.rdf contains bibliographic information for references used this semester.
 
-1. Download the the Tools repository zip file and extract the dse-references.rdf file
-3. Import the dse-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).
+1. Download the the this repository by clicking the green button in the top right and selecting "Download Zip" 
+2. Extract the hudk4050-references.rdf file
+3. Import the hudk4050-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).
 
+
+### Finally...
 
 You will also need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
 
