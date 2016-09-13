@@ -46,7 +46,7 @@ Instructions for setup can be found [here](https://help.github.com/articles/set-
 
 ## [Zotero](www.zotero.org)
 
-### You will need to install the following software for HUDK 4050.
+### You will need to install the following software for HUDK 4050 ( CRN - 31587 ).
 
 ## [R 3.2.3](https://www.r-project.org/)
 
