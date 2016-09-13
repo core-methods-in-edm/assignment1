@@ -9,6 +9,10 @@ try adding chinese
 1.改动 save 2.Version Control 3.commit add 4. push 5. check
 
 
+1+1
+
+2+3
+
 
 In this assignment you will be setting up the software and online tools that you will be using throughout this course. Below there are links and instructions to relevant sites. If you have any problems, you can tweet them using the hashtag #TCLA16. 
 
