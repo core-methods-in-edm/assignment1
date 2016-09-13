@@ -6,7 +6,7 @@ In this assignment you will be setting up the software and online tools that you
 The first stop is to create the accounts we will be using: 
 
 1. Start by creating a personal [Github account](https://github.com/join?source=header) *if you do not already have one*.
-2. Then create a [Twitter](www.twitter.com) account *if you do not already have one*.
+2. Then create a [Twitter](https://www.twitter.com) account *if you do not already have one*.
 3. Next you will need to install the software we will be using (if you already have them installed make sure they are the latest versions). Links and instructions can be found below for:
    * R
    * RStudio
