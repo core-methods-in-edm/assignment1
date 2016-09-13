@@ -26,7 +26,7 @@ In HUDK 4050 we will be using several online services and software packages to s
 
 ### You will need to make accounts with the following services.
 
-## [Twitter](www.twitter.com)
+## [Twitter](https://www.twitter.com)
 
 Twitter will be used to:
   * Ask questions about the course
