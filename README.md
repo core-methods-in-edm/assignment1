@@ -69,18 +69,16 @@ The file hudk4050-references.rdf contains bibliographic information for referenc
 
 You will also need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
 
-For many students this will be the most challenging task this semester. Several errors can be corrected by following the instructions located [here](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/).
+For many students this will be the most challenging task this semester. Several errors can be corrected by following the instructions located [here](http://happygitwithr.com/troubleshooting.html).
 
 A common error is: 
 
 `error: unable to read askpass response from 'rpostback-askpass'`
 
-The fix for most systems is:
+The a fix for most systems is:
 
 * In RStudio, click on the "Tools" menu and select "Shell"
-* Run the following command: 
-`git push -u origin master` 
-(*it might ask you for your git username and password. Supply this information, make sure it is correct*)
+* Run the following command: git push -u origin master (*it might ask you for your git username and password. Supply this information, make sure it is correct*)
 * Close the window
 * Now make some more edits to some file so that you have new content to push click on the "push" button in RStudio and this time the push should work
 
