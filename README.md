@@ -72,7 +72,7 @@ You will also need to link your Github account to RStudio by following [these in
 For many students this will be the most challenging task this semester. Several errors can be corrected by following the instructions located [here](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/).
 
 Then you celebrate!! (DN)
-
+asdf
 
 
 
