@@ -71,7 +71,9 @@ You will also need to link your Github account to RStudio by following [these in
 
 For many students this will be the most challenging task this semester. Several errors can be corrected by following the instructions located [here](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/).
 
-A common error is the a fix for mos systems is:
+A common error is the a fix for mos systems is: 
+
+`error: unable to read askpass response from 'rpostback-askpass'`
 
 * In RStudio, click on the "Tools" menu and select "Shell"
 * Run the following command: git push -u origin master (*it might ask you for your git username and password. Supply this information, make sure it is correct*)
