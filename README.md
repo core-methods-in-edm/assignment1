@@ -82,6 +82,9 @@ The a fix for most systems is:
 * Close the window
 * Now make some more edits to some file so that you have new content to push click on the "push" button in RStudio and this time the push should work
 
+If you are using a Mac and this does not fix your error please try [these instructions](https://github.com/core-methods-in-edm/Assignment1/blob/master/MAc%20Github%20help%20pages.pdf). 
+
+
 
 
 
