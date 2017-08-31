@@ -28,12 +28,12 @@ Next you will need to install the software we will be using (if you already have
 * Download [Git](https://git-scm.com/downloads) 
 
 ## Firefox & Zotero
-* An important aspect of the class is maintaining notes and documentation on out work in bibliographic software. In this class we wil use [Zotero](https://www.zotero.org/) in conjunction with the [Firefox 48.0.1](https://www.mozilla.org/en-US/firefox/new/) web browser. Please ensure you have these both installed on your machine.  
+* An important aspect of the class is maintaining notes and documentation on our work in bibliographic software. In this class we wil use [Zotero](https://www.zotero.org/) in conjunction with the [Firefox 48.0.1](https://www.mozilla.org/en-US/firefox/new/) web browser. Please ensure you have these both installed on your machine.  
 * Once you have these programs installed you can [download the Zootero reference list for the class](https://github.com/data-science-in-ed/Tools) and [upload it into Zotero](https://www.zotero.org/support/getting_stuff_into_your_library)  
-        The file hudk4050-references.rdf contains bibliographic information for references used this semester.
-          1. Download the the this repository by clicking the green button in the top right and selecting "Download Zip" 
-          2. Extract the hudk4050-references.rdf file
-          3. Import the hudk4050-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).
+        The file hudk4050-references.rdf contains bibliographic information for references used this semester.  
+          1. Download the the this repository by clicking the green button in the top right and selecting "Download Zip"   
+          2. Extract the hudk4050-references.rdf file  
+          3. Import the hudk4050-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).  
 
 ## Connecting Git-Github-RStudio
 
