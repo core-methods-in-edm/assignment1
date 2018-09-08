@@ -13,6 +13,11 @@ Next you will need to install the software we will be using (if you already have
    * Firefox (it is also possible to install Zotero desktop and not use Firesfox if you prefer)
    * Zotero plugin for Firefox
 
+## Vectr
+* Vectr is a Q&A platform we will be using to engage with the world of learning analytics  
+* We will complete setup in class  
+* Please watch [the following video](https://youtu.be/89RSXwOVwu4) before class  
+
 ## Installing R
 * Choose a [download mirror site](https://cran.r-project.org/mirrors.html) from the list that is close to you geographically  
 * Download the version of R that is appropriate to your operating system
@@ -26,14 +31,6 @@ Next you will need to install the software we will be using (if you already have
 * Git is a version control system to keep track of our work and collaboration
 * Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/) and [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Download [Git](https://git-scm.com/downloads) 
-
-## Firefox & Zotero
-* An important aspect of the class is maintaining notes and documentation on our work in bibliographic software. In this class we wil use [Zotero](https://www.zotero.org/) in conjunction with the [Firefox 48.0.1](https://www.mozilla.org/en-US/firefox/new/) web browser. Please ensure you have these both installed on your machine.  
-* Once you have these programs installed you can [download the Zootero reference list for the class](https://github.com/data-science-in-ed/Tools) and [upload it into Zotero](https://www.zotero.org/support/getting_stuff_into_your_library)  
-        The file hudk4050-references.rdf contains bibliographic information for references used this semester.  
-          1. Download the the this repository by clicking the green button in the top right and selecting "Download Zip"   
-          2. Extract the hudk4050-references.rdf file  
-          3. Import the hudk4050-references.rdf file into Zotero according to the instructions [here](https://www.zotero.org/support/getting_stuff_into_your_library).  
 
 ## Connecting Git-Github-RStudio
 
