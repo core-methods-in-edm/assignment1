@@ -16,7 +16,7 @@ Next you will need to install the software we will be using (if you already have
 ## Vectr
 * Vectr is a Q&A platform we will be using to engage with the world of learning analytics  
 * We will complete setup in class  
-* Please watch [the following video](https://youtu.be/89RSXwOVwu4) before class  
+* Please watch [the following video](https://ask.vectrapp.com/static/video/player?title=what-is-vectr) before class  
 
 ## Installing R
 * Choose a [download mirror site](https://cran.r-project.org/mirrors.html) from the list that is close to you geographically  
