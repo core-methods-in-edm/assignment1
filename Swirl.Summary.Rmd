@@ -1,0 +1,221 @@
+---
+title: "Swirl.Summary"
+author: "Sihan Wang"
+date: "9/29/2018"
+output:
+  word_document: default
+  html_document: default
+---
+leave the lesson by typing play() and then return by typing nxt()
+
+1.2 Workspace and Files
+
+Get working directory
+```{r}
+getwd()
+```
+
+Create a directory (Add file -in the current working directory)
+```{r}
+dir.create("testdir")
+```
+
+Set working directory
+```{r}
+setwd("testdir")
+```
+
+Create file
+```{r}
+file.create("mytest.R")
+```
+
+Listing file
+```{r}
+list.files()
+```
+
+Check exist
+```{r}
+file.exists("mytest.R")
+```
+
+File info
+```{r}
+file.info("mytest2.R")
+```
+
+Change name
+```{r}
+file.rename( "mytest.R" , "mytest2.R")
+```
+
+Copy
+```{r}
+file.copy("mytest2.R", "mytest3.R")
+```
+
+Path to the file
+```{r}
+file.path("mytest3.R")
+```
+
+Subdirectory
+```{r}
+file.path('testdir2', 'testdir3')
+```
+
+1.3 Vectors
+
+logical expressions
+or : |
+and : &
+negation : !
+
+space : collapse; sep
+```{r}
+paste(my_char, collapse = " ")
+paste("Hello", "world!", sep = " ")
+```
+
+recycling : rep()
+```{r}
+nth = paste0(1:12, c("st", "nd", "rd", rep("th", 9)))
+nth
+```
+
+1.4 Missing Values (NA)
+
+random : sample()
+NA: is.na()
+NaN - not a number
+equality : ==
+
+1.5: Subsetting Vectors
+
+logical vector -- to extract all elements of a vector that are not NA 
+```{r}
+x[is.na(x)]
+y <- x[!is.na(x)]
+x[!is.na(x) & x > 0]
+```
+subset element
+```{r}
+x[c(3, 5, 7)] #subset the 3rd, 5th, and 7th elements of x
+```
+all...except...
+```{r}
+x[c(-2, -10)]
+x[-c(2, 10)]
+```
+name vector : names()
+add names:
+```{r}
+names(vect2) <- c("foo", "bar", "norf") #add the `names` attribute to vect2 
+```
+check if same: identical()
+specify a vector of names
+```{r}
+vect[c("foo", "bar")]
+```
+
+1.6: Logic
+
+& : and, both true
+&& : only first one true
+| : or, either true
+|| : only first one true
+
+take one argument
+```{r}
+isTRUE(6 > 4)
+isFALSE()
+```
+takes two arguments : xor()
+```{r}
+xor(5 == 6, !FALSE)
+```
+
+which() : which indices are TRUE
+any() : one is TRUE
+all() : all is TRUE
+
+1.7 Dates and Times
+
+Sys.time() : current time
+Sys.Date() : current date
+class() : Object Classes 
+```{r}
+class(d1)
+```
+unclass() : internal look
+```{r}
+ unclass(d1)
+```
+as.Date() : set a date
+
+dates--'Date' class
+times :
+  'POSIXct'--> Sys.time()
+  'POSIXlt'--> as.POSIXlt(Sys.time()) # list of values
+
+str() : compact view
+```{r}
+str(unclass(t2))
+```
+weekdays()
+months()
+quarters()
+
+strptime() : converts character vectors to 'POSIXlt'
+```{r}
+strptime(t3, "%B %d, %Y %H:%M") 
+```
+difftime() : time difference
+```{r}
+Sys.time() - t1
+difftime(Sys.time(), t1, units = 'days')
+```
+
+1.8 Function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
