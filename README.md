@@ -29,7 +29,7 @@ Next you will need to install the software we will be using (if you already have
 
 ## Installing Git
 * Git is a version control system to keep track of our work and collaboration
-* Instructions for setup can be found [here](https://help.github.com/articles/set-up-git/) and [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* Instructions for setup can be found. [here](https://help.github.com/articles/set-up-git/) and [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Download [Git](https://git-scm.com/downloads) 
 
 ## Connecting Git-Github-RStudio
