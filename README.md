@@ -7,9 +7,16 @@ In this assignment you will be setting up the software and online tools that you
 The first step is to create a [Github account](https://github.com/join?source=header) if you do not already have one: 
 
 Next you will need to install the software we will be using (if you already have them installed make sure they are the latest versions):
+   * Zotero + Friefox browser
    * R
    * RStudio
    * Git
+   * Swirl Package in R
+   
+## Installing Zotero bibliographic software
+* You will need to install the [Firefox browser](https://www.mozilla.org/en-US/firefox/new/) to use Zotero (You can use Google Chrome but it is buggy)
+* Install [Zotero Desktop](https://www.zotero.org/)
+* Then install [Zotero connector for Firefox](https://www.zotero.org/download/)
 
 ## Installing R
 * Choose a [download mirror site](https://cran.r-project.org/mirrors.html) from the list that is close to you geographically  
@@ -26,7 +33,6 @@ Next you will need to install the software we will be using (if you already have
 * Download [Git](https://git-scm.com/downloads) 
 
 ## Connecting Git-Github-RStudio
-
 * You will also need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN) or [these instructions](http://happygitwithr.com/rstudio-git-github.html).
 * For many students this will be the most challenging task this semester. Several errors can be corrected by following the instructions located [here](http://happygitwithr.com/troubleshooting.html).
 
@@ -45,7 +51,6 @@ If you are using a Mac and this does not fix your error please try [these instru
 
 
 ## Swirl
-
 * Once you have installed both programs, open RStudio (RStudio will automatically open R at the same time)
 * R is modular, we can install mini-programs called *packages* within it like apps on your phone to do specific tasks, in this activity we will be using the Swirl package. Swirl is a teaching tool for learning R, it comprises questions and answers and a bit of AI (for positive reinforcement)
 * Install the Swirl package by typing `install.packages("swirl")` in the console window (located on the left hand side of the RStudio interface). If you get an error message you can also install by clicking the "packages" tab in the right hand pane and then clicking "install".
