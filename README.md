@@ -10,8 +10,6 @@ Next you will need to install the software we will be using (if you already have
    * R
    * RStudio
    * Git
-   * Firefox (it is also possible to install Zotero desktop and not use Firesfox if you prefer)
-   * Zotero plugin for Firefox
 
 ## Installing R
 * Choose a [download mirror site](https://cran.r-project.org/mirrors.html) from the list that is close to you geographically  
