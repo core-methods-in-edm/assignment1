@@ -14,7 +14,7 @@ Next you will need to install the software we will be using (if you already have
    * Swirl Package in R
    
 ## Installing Zotero bibliographic software
-* You will need to install the [Firefox browser](https://www.mozilla.org/en-US/firefox/new/) to use Zotero (You can use Google Chrome but it is buggy)
+* You will need to install the [Firefox browser](https://www.mozilla.org/en-US/firefox/new/) to use Zotero (You can use Google Chrome but it is buggy so make your life easier and just install Firefox)
 * Install [Zotero Desktop](https://www.zotero.org/)
 * Then install [Zotero connector for Firefox](https://www.zotero.org/download/)
 
