@@ -74,7 +74,15 @@ The final part of this assignment is for you to utilize all the software you jus
   * Create a bulletted list that describes three goals you have for this class
   * Create another second level heading that says "Video Review"
   * Create a table with two columns and three rows. In the header (first row) of the first column put the word "Category", in the header of the second column put the word "Review". In the second row of the first column put the word "Change" and in the third row of the first column put the word "Keep". In the remaining two cells write your opinion of the class videos you have seen so far. Wite a sentence or two about what you would change in the second row and what you would keep in the third row.
-  * Create another second level heading that says "This is how I am feeling abou the semester"
+  * Create another second level heading that says "This is how I am feeling about the semester"
   * Find an image of a piece of art that sums up how you are feeling about the semester ahead, upload it to the repository (add it to the folder where your project is located) and then insert it into the document
+* Now look of the Git icon in RStudio - top right tab or top left pane - and click it
+* Click `Commit`
+* In the left hand pane click the boxes for your `Assignment1.Rmd` file and your image file
+* Write a message in the `Commit Message` box, something that describes the work you have done like "Uploading assignmnet 1 .Rmd file"
+* Click `Commit`
+* Click `Push`
+* Now return to Github and refresh the page, your edited .Rmd file and your image file should now be in the repository
+* Next, submit your assignment click 
 
 
