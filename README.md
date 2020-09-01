@@ -26,21 +26,19 @@ Next you will need to install the software we will be using (if you already have
 * Download [Git](https://git-scm.com/downloads) 
 
 ## Connecting Git-Github-RStudio
-* You will also need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN) or [these instructions](http://happygitwithr.com/rstudio-git-github.html).
+* You will also need to link your Github account to RStudio by following [these instructions](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
 * For many students this will be the most challenging task this semester. Several errors can be corrected by following the instructions located [here](http://happygitwithr.com/troubleshooting.html).
 
-A common error is: 
+A common error for Macs is: 
 
-`error: unable to read askpass response from 'rpostback-askpass'`
+`error: unable to read askpass response from 'rpostback-askpass'` or a similar error saying that Git is missing.
 
-The fix for most systems is:
+The fix is often:
 
-* In RStudio, click on the "Tools" menu and select "Shell"
-* Run the following command: `git push -u origin master` (*it might ask you for your git username and password. Supply this information, make sure it is correct*)
-* Close the window
-* Now make some more edits to some file so that you have new content to push click on the "push" button in RStudio and this time the push should work
-
-If you are using a Mac and this does not fix your error please try [these instructions](https://github.com/core-methods-in-edm/Assignment1/blob/master/MAc%20Github%20help%20pages.pdf). 
+* In RStudio, click on the `Tools` menu and select `Global Options` and then `Git/SVN`
+* The `Git executable` box should contain the following filepath: `/usr/local/git/bin/git` if it does not contain this **EXACT** filepath (I.E. it says something like `local/git`) then click `Browse` and locate the `git` file at `usr/local/git/bin/git` and click `OK`.
+* Click `Apply` and then `OK`
+* Exit RStudio and then reopen, you should see a `Git` icon when you complete Part B below.
 
 ## Part B: R Markdown
 
