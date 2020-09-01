@@ -58,7 +58,7 @@ If you are using a Mac and this does not fix your error please try [these instru
 
 The final part of this assignment is for you to utilize all the software you just installed to modify an R Markdown file.
 
-* In the top left corner of the repository page, click `Fork`
+* In the top left corner of the repository page, click `Fork` - this step is often forgetten, try not to forget it!
 * Then click `Clone` and copy the URL for the repository
 * Open RStudio and click `File` -> `New Project` -> `Version Control` -> `Git`
 * Paste the URL into the `Repository URL` box
@@ -83,6 +83,6 @@ The final part of this assignment is for you to utilize all the software you jus
 * Click `Commit`
 * Click `Push`
 * Now return to Github and refresh the page, your edited .Rmd file and your image file should now be in the repository
-* Next, submit your assignment click 
+* Next, to submit your assignment click `Pull Requests`and then `Create New Pull Request` 
 
 
