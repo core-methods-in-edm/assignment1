@@ -58,6 +58,7 @@ If you are using a Mac and this does not fix your error please try [these instru
 
 The final part of this assignment is for you to utilize all the software you just installed to modify an R Markdown file.
 
+### Clone the repository to you computer
 * In the top left corner of the repository page, click `Fork` - this step is often forgetten, try not to forget it!
 * Then click `Clone` and copy the URL for the repository
 * Open RStudio and click `File` -> `New Project` -> `Version Control` -> `Git`
@@ -65,6 +66,8 @@ The final part of this assignment is for you to utilize all the software you jus
 * Name your project in the `Project Directory Name` box
 * Browse to an appropriate folder on your computer to put your project, I would suggest you make a folder for the class somewhere, don't put the project on the Desktop or in the Root Directory. Moving a project after you create it can cause problems later so it is best to put projects somewhere that is permanent.
 * Click `Create Project`
+
+### Edit the markdown document
 * Once you have created your project open the `Assignment1.Rmd` file by clicking on it in the `Files` pane of RStudio (bottom-right by default)
 * Open the `R Markdown Cheat Sheet` also available under `Files` 
 * Use the Cheat Sheet to make the following changes to the Assignment1.Rmd file:
@@ -76,6 +79,8 @@ The final part of this assignment is for you to utilize all the software you jus
   * Create a table with two columns and three rows. In the header (first row) of the first column put the word "Category", in the header of the second column put the word "Review". In the second row of the first column put the word "Change" and in the third row of the first column put the word "Keep". In the remaining two cells write your opinion of the class videos you have seen so far. Wite a sentence or two about what you would change in the second row and what you would keep in the third row.
   * Create another second level heading that says "This is how I am feeling about the semester"
   * Find an image of a piece of art that sums up how you are feeling about the semester ahead, upload it to the repository (add it to the folder where your project is located) and then insert it into the document
+  
+### Commit-Push-Pull Request your assignment
 * Now look of the Git icon in RStudio - top right tab or top left pane - and click it
 * Click `Commit`
 * In the left hand pane click the boxes for your `Assignment1.Rmd` file and your image file
