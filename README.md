@@ -83,6 +83,7 @@ The final part of this assignment is for you to utilize all the software you jus
 * Click `Commit`
 * Click `Push`
 * Now return to Github and refresh the page, your edited .Rmd file and your image file should now be in the repository
-* Next, to submit your assignment click `Pull Requests`and then `Create New Pull Request` 
+* Next, to submit your assignment click `Pull Requests`(top left) and then `New pull request` and then `Create Pull request`
+* Congratulations! You have just submitted your assignment. You can update it at any time by going through the same process `Commit` -> `Push` -> `Pull Request`
 
 
