@@ -46,7 +46,7 @@ The final part of this assignment is for you to utilize all the software you jus
 
 ### Clone the repository to you computer
 * In the top left corner of the repository page, click `Fork` - this step is often forgetten, try not to forget it!
-* Then click `Clone` and copy the URL for the repository
+* Then click `Code` and copy the URL for the repository
 * Open RStudio and click `File` -> `New Project` -> `Version Control` -> `Git`
 * Paste the URL into the `Repository URL` box
 * Name your project in the `Project Directory Name` box
