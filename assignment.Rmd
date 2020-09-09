@@ -1,0 +1,39 @@
+---
+title: "Assignment1"
+author: "Yi Chen"
+date: "9/9/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Assignment 1
+
+Here is my [Github Profile Page](https://github.com/ChrisChen0429).
+
+
+## My Goals For HUDK4050
+
+* Have a deeper understanding about the data mining techniques and how these methods are applied in education;
+
+* Have more practice of collaborative working (in particular, remotely).
+
+## Video Review
+
+* What I want to change: 
+  + Add more notes on the screen when some new technique, software, or important link are mentioned during the video;
+  + Go through more examples when talking about the new techniques;
+
+* What I want to keep:
+  + The overall style of the video is very clear and straightforward.
+
+| Skill | Score |
+|-----:| -----:|
+| Rcpp | Opinion on Video |
+| 5    |  8/10 |
+
+## This is how I am feeling about the semester
+
+![Too busy](OIP.jpeg)
