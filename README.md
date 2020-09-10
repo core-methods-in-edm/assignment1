@@ -1,5 +1,6 @@
 # Assignment 1
-
+Hi I'm Merry!
+  
 ## Part A: Installation & Account Setup
 
 In this assignment you will be setting up the software and online tools that you will be using throughout this course. Below there are links and instructions to relevant sites.
