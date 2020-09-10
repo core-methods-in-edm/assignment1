@@ -1,4 +1,14 @@
 # Assignment 1
+[link](https://github.com/Cypress2019) 
+
+## My Goals for HUDK4050
+*gain R proficiency
+*further develop data-analytical thinking
+*get to know at least one classmate
+
+##Video Review
+
+
 
 ## Part A: Installation & Account Setup
 
