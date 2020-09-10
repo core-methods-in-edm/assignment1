@@ -63,7 +63,7 @@ The final part of this assignment is for you to utilize all the software you jus
   * Create a bulletted list that describes three goals you have for this class
   * Create another second level heading that says "Video Review"
   * Add a review of the class videos you have seen so far, write a sentence or two about what you would change and what you would keep
-  * Create a table with two columns and three rows. In the header (first row) of the first column put the word "Skill", in the header of the second column put the word "Score". In the second row of the first column put a word that describes a skill you want to improve at, and in the third row of the first column put a score out of 10 that describes your current level of that skill. In the remaining two cells write your opinion of the class videos you have seen so far. 
+  * Create a table with two columns and three rows. In the header (first row) of the first column put the word "Skill", in the header of the second column put the word "Score". In the second row of the first column put a word that describes a skill you want to improve at, and in the second row of the second column put a score out of 10 that describes your current level of that skill. In the remaining two cells write your opinion of the class videos you have seen so far. 
   * Create another second level heading that says "This is how I am feeling about the semester"
   * Find an image of a piece of art that sums up how you are feeling about the semester ahead, upload it to the repository (add it to the folder where your project is located) and then insert it into the document
   * Generate an HTML document called "Assignment1.html" from your markdown code by pressing the "knit" button
