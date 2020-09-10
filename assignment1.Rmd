@@ -1,6 +1,23 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
 output: html_document
 ---
+
+[Link to My Github Profile Page](https://github.com/ch3427)
+
+## My Goals for HUDK4050
+- Learn to use R
+- Work with data in education
+- Have fun! :)
+
+## Video Review
+*I enjoy watching the class videos, as they are clear and easy to follow. I Would love the opportunity to engage with my classmates on class videos through discussions, comments, etc.*
+
+Skill | Score
+------|------
+Coding | The *R/RStudio & Git/Github* video provides great guidance and additional resources.
+3 | The *Git & Github Walk Through* video is easy to follow.
+
+## This is how I am feeling about the semester
+![](girl.gif)
+
