@@ -4,3 +4,27 @@ author: "YOUR NAME"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1 
+[my github profile](https://github.com/louiserr98)
+
+## *My Goals for HUDK4050 
+ + Be able to use Rstudio smoothly 1
+ + Understand the power of date 2
+ + Write codes in a project
+
+## Video Review
+I would get to know the terms better and I would keep being curious about R.
+
+Skill | Score
+- | :-: 
+Dance | 90
+Rmarkdown | 10
+useful | essential 
+
+## This is how I am feeling about the semester
+
+```{r}
+knitr::include_graphics('1.jpg')
+```
+
