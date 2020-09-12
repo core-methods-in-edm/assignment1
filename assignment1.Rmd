@@ -1,6 +1,29 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Xinyuan Ren"
+date: "9/12/2020"
 output: html_document
 ---
+# Assignment 1
+
+## My Goals for HUDK4050
+* Learn to use R and Rstudio
+* Apply statistic and programming skill to  properly analyze educational data
+* Yield feasible advice to assist educational problems
+
+## Video Review
+I will continue to get acquainted with R syntax and Rmarkdown using datacamp
+and Rmarkdown cheatsheet.
+
+| Skill       | Score |
+| ----------- | ----------- |
+| Programming skill  |  0  |
+| Statistics   | 1  |
+| Data Visualization   | 0 |
+
+## This is how I am feeling about the semester
+![](catsmile.jpg)
+
+
+
+
