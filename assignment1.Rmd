@@ -1,6 +1,31 @@
 ---
-title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+title: Assignment 1
 output: html_document
 ---
+
+Github Profile Link: https://github.com/AndyChenHe
+
+##My Goals for HUDK4050
+
+* Learn how to use R to analyze data
+* Practice how to analyze data in different situation
+* Practice data cleaning 
+* Learn how to make prediction from data
+
+## Video Review
+Videos' contents are nice and concise. All instructions are pretty clear and organized. I hope we can keep this concise form.
+
+
+```{r}
+library(knitr)
+dataInfo <- matrix(c('Coding',7,'All Videos are concise and great. I hope we can have more live coding videos.','Maybe we can improve some videos\' quality. They are only 360P. '),ncol=2,byrow=TRUE)
+colnames(dataInfo) = c('Skill', 'Score')
+rownames(dataInfo) = c('','')
+dataInfo = as.table(dataInfo)
+final_table = kable(dataInfo)
+final_table
+```
+
+## This is how I am feeling about the semester
+![Everything will be fine](./meme.jpg)
+
