@@ -18,7 +18,7 @@ Great |  Fast |
 
 
 ## This is how I am feeling about the semester:
-![] (/Users/mdavoodifard/Desktop/Core Methods Data Mining/assignment1/optimism.jpg)
+![The semester being the elephant of course!] (https://images.app.goo.gl/PxFZ4b3FVETV4sA7A)
 
 
 ## Part A: Installation & Account Setup
