@@ -19,7 +19,9 @@ Great |  Fast |
 
 ## This is how I am feeling about the semester:
 
-![](https://images.app.goo.gl/vQfqignoTEHeiEJcA)
+![][optimism]
+
+[optimism]: https://images.app.goo.gl/vQfqignoTEHeiEJcA
 
 
 ## Part A: Installation & Account Setup
