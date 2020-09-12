@@ -1,6 +1,23 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Sherry Cai"
+date: "9/9/2020"
 output: html_document
 ---
+My github page: <https://github.com/csherry97>
+
+### My Goals for HUDK4050
+* Learn basic data mining/data analysis skills.
+* Learn to analyze educational data.
+* Gain insights about how data mining has been used and could be used in education.
+
+### Video Review
+I really like the videos, and I think these videos are very informative. One thing I want to keep is the highlight points and images on the screen, which helps me to understand the lecture better.
+
+Skill  | Score
+------------- | -------------
+data analysis with R  | I like all the videos. I think the lectures are useful
+1/10  | I like the intro music at the beginning
+
+### This is how I am feeling about the semester
+![alt text](./1.jpeg)
