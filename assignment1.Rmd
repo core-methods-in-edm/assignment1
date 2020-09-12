@@ -1,6 +1,25 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Hangshi Jin"
+date: "9/12/2020"
 output: html_document
 ---
+# Assignment 1 {#anchor}
+To my Github profile: [link](https://github.com/jinhangshi2008)
+
+## My Goals for HUDK4050 {#css_id}
+- Learn how to make beautiful and creative visualizations
+- Learn how to clean and mine data
+- Learn how to master R
+
+## Video Review {#css_id}
+The video classes were made pretty well on the descriptions for every piece of knowledge and clear on step-by-step instructions. I would keep the videos short and precise.
+
+| Skill | Score |
+|:------:|:-----:|
+| Visualization | 5 |
+| Precise | Clear |
+
+## This is how I am feeling about the semester {#css_id}
+![Caption](Luffy_gear2nd.jpg)
+
