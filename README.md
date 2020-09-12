@@ -18,7 +18,8 @@ Great |  Fast |
 
 
 ## This is how I am feeling about the semester:
-! [The semester being the elephant of course!]  (https://images.app.goo.gl/PxFZ4b3FVETV4sA7A)
+
+![The semester being the elephant of course!](https://images.app.goo.gl/PxFZ4b3FVETV4sA7A)
 
 
 ## Part A: Installation & Account Setup
