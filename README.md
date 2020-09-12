@@ -19,7 +19,7 @@ Great |  Fast |
 
 ## This is how I am feeling about the semester:
 
-![Me and the course](/Users/mdavoodifard/Desktop/Core Methods Data Mining/assignment1/optimism.jpg)
+! [Me and the course] (/Users/mdavoodifard/Desktop/Core Methods Data Mining/assignment1/optimism.jpg)
 
 
 
