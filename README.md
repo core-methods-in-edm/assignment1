@@ -18,7 +18,7 @@ Great |  Fast |
 
 
 ## This is how I am feeling about the semester:
-![] (Desktop/Core Methods Data Mining/assignment1/optimism.jpg)
+![] (/Users/mdavoodifard/Desktop/Core Methods Data Mining/assignment1/optimism.jpg)
 
 
 ## Part A: Installation & Account Setup
