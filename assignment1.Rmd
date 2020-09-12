@@ -1,6 +1,28 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: Xijia Wang
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1 
+https://github.com/xijia-wang
+
+## My Goals for HUDK 4050
+* Getting more familiar with R and learning more intermediate even advanced data analysis techniques
+
+* Applying R to my own research interest and creating some sample projects
+
+* Learning basis data mining techniques
+
+## Video Review 
+The videos are great and very helpful. 
+
+|Skill|Score|
+|-----|:----|
+|Web scraping |    If the volume could be bigger, that would be great.|
+| 2 |    videos are good.|
+
+## This is how I am feeling about the semester
+
+![Caption](googoo.png)
