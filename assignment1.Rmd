@@ -1,6 +1,51 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
-output: html_document
+author: "Jiasheng (Andy) Yu"
+date: "9/9/2020"
+output:
+   html_document:
+     toc: TRUE
 ---
+
+# Assignment 1
+
+[Jiasheng (Andy) Yu Profile](https://github.com/JiashengYu618)
+
+
+
+## My Goals for HUDK4050
+
+- Improve my programming skills in R
+- Make friends with other students
+- Cooperate with Charles and other students and improve my communication skills
+
+
+
+## Video Review
+
+After watching the videos I think I learned a really quick way to commit my code by using RStudio. Actually, I am familiar with using command to commit my code but sometimes, I might make some mistakes. So, it's really convenient by using RStudio to commit my code. Also, I know how to use markdown before but never use it in RStudio. I think it is also a convenient way for us to comment code.
+
+What I  want to keep is my patience in the work and the thing I want to change is sometimes I am too quiet , I should be become more active in the class.
+
+
+| Skill |  Score |
+| :-:| :-:|
+| Communication | I think if some students ask some questions, you can answer them through videos |
+|7| I think all the videos are detailed |
+
+
+
+## This is how I am feeling about the semester
+
+
+
+![Impression Sunrise](./image-20200909221852803.png)
+
+															 											
+
+
+
+
+
+
+
