@@ -1,6 +1,27 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Yen-Ling Cheng"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+[Yen-Ling Cheng's Portfolio Page](https://github.com/YenlingCheng/assignment1) 
+
+## Assignment 1 My Goals for HUDK4050
+* Learn how to create data visualizations using R
+* To be familiar with data wrangling
+* Learn how to interpret and analyze big data base
+
+## Video Review
+I like how the videos are broken down into different episodes.I wonder if you can add more graphics or images along with the videos to help understand more about the concepts you mentioned in the videos. 
+
+Skill        | Score
+-------------| -------------
+Data Visualiization    | 4
+Would like to see more graphics or visual elements that help understand the concept  | 
+Would like to watch more videos in a unit     | 
+
+
+## This is how I am feeling about the semester
+![I am so busy](busy-cat.gif) 
