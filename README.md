@@ -11,15 +11,17 @@ https://github.com/mahshaddav81
 ## Video Review
 The videos are great in that they cover a lot of complicated materials in a very clear and relatively simple language. Although closed captions and transcripts are available, I would love for Charles to speak a bit more slowly so that I can follow along better. He's too fast. I have the same critique for the Zoom workout video. I had to pause and try each practice and resume playing the video. I don't know how people managed to do it live at that pace. I would not change a thing about the way the course is organized and presented: very neat.
 
+
 Skill | Score |
 ------|-------|
 Coding|   2   |
 Great |  Fast |
 
 
+
 ## This is how I am feeling about the semester:
 
-![](Mahshads-MacBook-Pro:assignment1/optimism.jpg)
+![](optimism.jpg)
 
 
 
