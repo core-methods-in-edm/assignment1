@@ -1,6 +1,30 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Yingxin Xie"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+Here is my [GitHub Profile](https://github.com/YingxinXie).
+
+## My goals for HUDK 4050
+* make usful application of fatched data
+* have a basic idea of data mining and other analytical procedures
+* gain proficiency in using R
+
+## Video Review
+* R is an innovative language with collective effort and developed with negotiated consensus
+* RStudio provides an interactive development environment of R
+* Git is a version control system that can track every change make to a file
+* GitHub allows the Git system to work across the internet.
+* I think this course has provided a very detailed introduction to the overall R and GitHub. I have had several statistical courses that using R as the tool but these background information haven't been underlined in such clear manner. Besides that, I would like to add some simple tasks to better explore functions and different options in R. So that we could get into its working style faster. I also believe there are more interesting assignments in the coming weeks. Looking forward to working for them!
+
+Skill  | Score
+------------- | -------------
+Coding in R  | 1/10
+well organized  | concise and helpful
+
+## This is how I am feeling about this semester
+![alt text](/Users/yingxinxie/Desktop/Turing/R/HUDK4050/Assignments/Assignment1/Trauernder_alter_Mann.png)
+Van Gogh - Trauernder Alter Mann
+
