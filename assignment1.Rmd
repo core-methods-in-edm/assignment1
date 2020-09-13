@@ -25,6 +25,6 @@ Coding in R  | 1/10
 well organized  | concise and helpful
 
 ## This is how I am feeling about this semester
-![alt text](/Users/yingxinxie/Desktop/Turing/R/HUDK4050/Assignments/Assignment1/Van_Gogh-Trauernder_alter_Mann.jpeg)
+![alt text](/Users/yingxinxie/Desktop/Turing/R/HUDK4050/Assignments/Assignment1/Trauernder_alter_Mann.png)
 Van Gogh - Trauernder Alter Mann
 
