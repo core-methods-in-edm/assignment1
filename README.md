@@ -41,11 +41,11 @@ The fix is often:
 * Exit RStudio and then reopen, you should see a `Git` icon when you complete Part B below.
 
 
-## Part B: R Markdown
+# Part B: R Markdown
 
 The final part of this assignment is for you to utilize all the software you just installed to modify an R Markdown file.
 
-# Clone the repository to you computer
+## Clone the repository to you computer
 
 * In the top left corner of the repository page, click Fork - this step is often forgetten, try not to forget it!
 * Then click Code and copy the URL for the repository
@@ -55,7 +55,7 @@ The final part of this assignment is for you to utilize all the software you jus
 * Browse to an appropriate folder on your computer to put your project, I would suggest you make a folder for the class somewhere, don't put the project on the Desktop or in the Root Directory. Moving a project after you create it can cause problems later so it is best to put projects somewhere that is permanent.
 * Click Create Project
 
-# Edit the markdown document
+## Edit the markdown document
 
 * Once you have created your project, open the Assignment1.Rmd file by clicking on it in the Files pane of RStudio (bottom-right by default)
 * Open the R Markdown Cheat Sheet (link available on the course website)
@@ -71,7 +71,7 @@ The final part of this assignment is for you to utilize all the software you jus
   + Find an image of a piece of art that sums up how you are feeling about the semester ahead, upload it to the repository (add it to the folder where your project is located) and then insert it into the document
   + Generate an HTML document called "Assignment1.html" from your markdown code by pressing the "knit" button
 
-# Commit-Push-Pull Request your assignment
+## Commit-Push-Pull Request your assignment
 
 * Now find the Git tab in RStudio - top right pane - and click it
 * Click Committo open the Git interface
