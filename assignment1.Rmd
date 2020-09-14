@@ -1,6 +1,27 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "JINGSHU ZHANG"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment1 
+<https://github.com/Jingshu-Z>
+
+## My Goals for HUDK4050 
+* Learn how to use R language
+* Understanding data analysis in R 
+* Using R to clean,analyze,and graph my data
+
+## Video Review 
+The class videos are great. I hope the video can add more practice with steps because I am a new user in R and hope to learn more.
+
+| Skill | Score | 
+|------:|:-----|
+| Coding | 1 |
+| The class videos is great and easy to follow | The accompaniment music is impressive | 
+
+## This is how I am feeling about the semester
+
+![lots of things](lots of things.jpg) 
+
