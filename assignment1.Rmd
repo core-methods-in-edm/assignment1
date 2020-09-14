@@ -1,6 +1,34 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Qiyu Wu"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+Link to Github profile page: https://github.com/zjustinb
+
+## My Goals For HUDK 4050
+
+* Get A
+* Able to do data analysis fluentely by using R
+* Able to use R in future career
+
+## Video Review
+
+Some of the videos' sounds are unclear even if I turned it loud on my computer. On the other hand, recorded videos are easier to catch up than live ones.
+
+Skill  | Score
+------------- | -------------
+Coding  | 3
+Might be useful for | future assignments
+
+## This is how I am feeling about the semester
+
+![image](/Users/zjustinb/Desktop/TC.Columbia/fall2020/HUDK4050/Qiyu Wu-Assign1/Qiyu-Assign1/what.jpg)
+
+
+
+
+
