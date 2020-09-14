@@ -1,6 +1,28 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Wenning Xiao"
+date: "9/12/2020"
 output: html_document
 ---
+# Assignment 1
+<https://github.com/anneeexiao>
+
+## My Goals for HUDK 4050
+- Goal 1 Know how to use R
+- Goal 2 Know how to use R to do statistics and make interpretations
+- Goal 3 Improve skill of logical thinking
+
+## Video Review
+I have watched all the videos so far. I got a brief insight of what the R/R studio is, and what the git/github is. Basically R is a coding language mainly used for statistical analysis, and it was developed based on S. R studio is an interaction community where people can organize their work into project. We use Rmarkdown to write and run our codes. Git tracks changes to files and github is a online community where we can save our changes made on codes.  
+
+The thing that I would change: go through all the videos at the end of week. 
+The thing I would keep: always be passion  
+
+|Skill   | Scores|
+|------- | -----------|
+|coding logic | concepts were clearly introduced|
+|4       | love the short-video format|  
+
+## This is how I am feeling about the semester
+![semester-mood](IMG_3299.JPG)
+
