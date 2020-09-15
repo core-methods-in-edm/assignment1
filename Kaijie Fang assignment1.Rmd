@@ -1,0 +1,32 @@
+---
+title: "Assignment 1"
+author: "kaijie Fang"
+date: "9/8/2020"
+output: html_document
+
+# Assignment1
+[https://github.com/Lilykj](https://github.com/Lilykj)
+
+### My Goals for HUDK4050  
+
+* To get some basic knowledge about educational data mining  
+
+* To learn how to use RStudio   
+
+* To gain proficiency in developing an educational data solution  
+
+### Video Review {#css_id}
+I often look the video first and then also see the transcript to ensure i get all the information in the video for i hope to make sure i miss nothing because of language. So far, i think it is a good way to get most information of the course.  
+
+| Skill | Score |
+|------:|:------|
+| coding|   0   |
+|Putting some key words on the screen are really helpful|I hope the speed of speaking can slow a little bit|
+
+
+### This is how I am feeling about the semester  
+
+![image](D:\Github\Assignment 1\Lilykj assignment1\images.jpg)  
+
+
+
