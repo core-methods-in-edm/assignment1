@@ -1,6 +1,31 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Guoliang Xu"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+[link](https://github.com/GuoliangXu)
+
+## My Goals for HUDK4050
+* be proficient in R
+* make new friends
+* be able to do data analysis independently
+
+## Video Review 
+The previous course videos have well demonstrated some basic knowledge of learning R language, such as R and RMarkdown. I would like to add some videos of task operations, and keep the teaching mode of the course videos.
+
+
+|Skill|Score|
+|----:|:----|
+|communication|6|
+|well organized|rich in content|
+
+## This is how I am feeling about the semester
+![](image.jpeg)
+
+
+
+
+
+
