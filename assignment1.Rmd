@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Jiaxin Ling"
+date: "9/14/2020"
 output: html_document
 ---
+# Assignment 1 
+<https://github.com/Lynn-Jiaxin>
+
+
+## My Goals for HUDK4050
+* get familar with coding by using R and R studio
+* gain experience in git and github
+* be able to complete some complex data analysis independently
+
+## Video Review
+I like the videos to be divided into pieces by different contents which are easier for looking up some specific content in the future. And I like the summary of the video content at the end of the video.
+
+| Skill | Score |
+| :------: | :------: |
+| Reading | 5 |
+| Brief and Clear | Convenient |
+
+## This is how I am feeling about the semester
+![](2002.23_1a-1024x650-1024x650.jpg)
+
