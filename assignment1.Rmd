@@ -1,6 +1,25 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Xuechun Li"
+date: "9/16/2020"
 output: html_document
 ---
+# Assignment 1
+<https://github.com/Veronica-LXC>
+
+## My Goals for HUDK4050
+* Learn how to use Rstudio
+* get the basic idea of data mining
+* Learning how to analyze the big data set by using programming skills
+
+## Video Review
+By watching the Video, I got familar with R studio and Github. R studio provides and interctive development enviornment of R. Github is a version control system. I think the videos are very clear and detailed. The timing of the video are perfect. I think more examples can be added in the video. I will keep working hard and being curious about R.
+
+|Skill|Score|
+|----|----|
+|Programming skill|3|
+|clear|detailed|
+
+## This is how I am feeling about the semester
+![Feeling](123.jpg)
+
