@@ -1,6 +1,32 @@
 ---
-title: "Assignment 1"
-author: "WYR"
+title: "Assignment 1 Part B"
+author: "Yurui Wang"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+<https://github.com/vivianwang0213>
+
+## My Goals for HUDK4050 
+* Get familiar with R 
+* Be able to complete every assignment
+* Contribute to group project
+
+## Video review
+* R is a programming language
+* R Studio is an environment where R is used to develop statistical programs
+* Git helps keep the record of your project locally
+* Github functions as a remote server of your local repository and enables 
+project collaboration
+* With different package tools, we can process and visualized statistical data
+
+I'm not a organized person, but I'll push myself to be more organized this semester.
+
+Skill         | Score
+------------- | -------------
+coding        | 1/10
+With little   | experience in the field, I find the videos clear and helpful
+
+## This is how I feel about the semester
+
+![All text](/Users/wyr/Desktop/HUDK 4050 Core methods in educational data mining/assignment1 part B/me feeling excited.gif)
