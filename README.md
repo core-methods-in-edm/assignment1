@@ -19,7 +19,7 @@
 
 ## This is how I am feeling about the semester
 
-![My Feelings](https://github.com/Cypress2019/assignment1/blob/master/ETKtcRCWAAEC2US.jpg)
+![My Feelings](https://github.com/Cypress2019/assignment1/blob/master/q.jpg)
 
 ## Part A: Installation & Account Setup
 
