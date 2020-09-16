@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Qianhui Yuan"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+
+[My Github Profile](https://github.com/Qianhui-Yuan)
+
+## My Goals for HUDK4050
+
+* Mastering basic statistical methods and principles in EDM;
+* Being good at managing data in R environment;
+* Being familiar with Github;
+
+## Video Review
+I really enjoy watching class videos and learning R, which I have expected for a long time. All the synchronous and asynchronous activities of this class are well-designed. I would like to keep pace with our schedule.
+
+|Skill|Score|
+|:---:|:---:|
+|R Programming|0|
+|The lessons so far are really helpful and easy to follow.|It will be better if the video transcript can be put in the main body of the page instead of the code block.|
+
+## This is how I am feeling about the semester  
+![My feelings](happy.png)
