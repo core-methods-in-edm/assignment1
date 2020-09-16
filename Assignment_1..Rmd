@@ -1,0 +1,32 @@
+---
+title: "Assignment 1"
+author: "Malik Muftau"
+date: "9/10/2020"
+output: html_document
+---
+# Assignment 1
+  
+[My Github profile link](https://github.com/malikmuftau)
+
+## My Goals for HUDK4050
+
+* Learn the basics of R
+* Read code in R 
+* Learn how to run maps, graphs and simplify data in R
+
+### Video Review
+I think a great element of the videos so far is that it is well illustrated with text. Perhaps as the language gets more complex the pace for the videos could be reduced when walking through the code. Great so far! 
+  
+  
+  | Skill | Score |
+  ------- | ----- |
+  | Basic codes in R | 5 |
+  | Adventurous!     | Learning something new every second |
+  
+## This is how I am feeling about the semester
+  
+  ![Feelings for the semester.](Long-Road-Ahead2.jpg)
+```{r}
+
+```
+
