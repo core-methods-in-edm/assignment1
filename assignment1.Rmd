@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Hyungoo Lee"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1 
+
+[link to Git profile](http://github.com/leekkl) 
+
+## My Goals for HUDK4050 
+- Learn data mining 
+- Enjoy learning data mining
+- Do well on assignments 
+
+## Video Review 
+The videos are short and very informative. In some of the videos, however, the resolution can be improved as small words can be hard to make out. Overall, though, the videos are great.
+
+| Skill | Score |
+|:-------:|:------:| 
+| Coding | 1 |
+| Videos are | educational |
+
+## This is how I am feeling about the semester 
+![How I feel about the semester](the scream.jpg)
