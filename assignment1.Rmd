@@ -1,6 +1,38 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Manrui Zhang"
+date: "9/16/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/ManruiZhang)
+
+## My Goals for HUDK4050  
+
+* Learn how to code with R
+* Know different ways to do data mining 
+* Learn how to use data 
+
+## Video Review
+
+The pace of this course so far is novice friendly. As a starter in R, I think it's not so hard to follow and I really hope that we could keep this pace. It could be improved by mentioning some common errors that students may have. 
+
+|Skill|Score|  
+|-|:-:|-:|   
+|Coding|0|  
+|Clear and organized|still not sure about time for coding workout|   
+
+## This is how I am feeling about the semester
+
+![My feelings](scream.jpeg)
+
+```{r}
+
+
+```
+
+
+
+
