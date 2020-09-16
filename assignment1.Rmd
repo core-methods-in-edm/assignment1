@@ -1,6 +1,36 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Xiaojia Liu"
+date: "9/15/2020"
 output: html_document
 ---
+
+
+# Assignment 1
+
+[My Github Profile](https://github.com/xiaojia-liu)
+
+## My Goals for HUDK4050
+
+* GOAL 1: Use R fluently in the end 
+* GOAL 2: Combine the application of data science with what we learn
+* GOAL 3: Enjoy the Coding Workout and Hackathon!! Love it!
+
+## Video Review 
+
+The videos are so far so good. They are all very clear and Informative.
+
+|  Skill  |  Score  |
+|---------|---------|
+|  Coding |     7   |
+|  Good   | Terrific|
+
+
+## This is how I am feeling about the semester
+
+
+![My feelings](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg)
+
+![Hopefully not like this](https://ahseeit.com//king-include/uploads/2019/03/51383206_2685978588084386_6133633250479364223_n-953557845.jpg)
+
+
