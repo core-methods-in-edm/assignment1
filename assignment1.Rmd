@@ -1,6 +1,35 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Jie Yao"
 date: "9/8/2020"
 output: html_document
 ---
+## Assignment 1
+
+[My Github Profile](https://github.com/jy3113)
+
+```{r}
+
+```
+## My Goals for HUDK4050
+
+* Goal 1: Learn to acquire, compile, analyze and report academic research data
+* Goal 2: Develop a portfolio of educational data science projects
+* Goal 3: Work hard and get a good grade
+
+## Video Review
+
+I think what can be changed is to give more examples, especially code workout.
+What can be kept is the subtitles of the video, because sometimes it is hard to hear clearly.
+
+| Skill | Score |
+|------:|:------|
+|Coding |    1.5|
+| Good  |  Fit  |
+
+## This is how I am feeling about the semester
+
+![My feelings](tired.gif)
+
+
+
