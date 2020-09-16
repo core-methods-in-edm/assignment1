@@ -7,6 +7,8 @@ output: html_document
 
 # Assignment1 
 
+[ My githup profile page](https://github.com/Ali93NY)
+
 ## My Goals for HUDK4050 
 - Improving my skills in R
 - Learning about Github and version control
@@ -23,5 +25,5 @@ on them so I would suggest to improve the voice quality.
 |Video Score|8|
 
 ## This is how I am feeling about the semester
-![](https://raw.githubusercontent.com/Ali93NY/assignment1/master/image.png)
+![My feeling](image.png)
 
