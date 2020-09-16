@@ -1,6 +1,30 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Tianyu Chang"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/tc3080)
+
+## My Goals for HUDK4050  
+
+* Goal 1 Get familiar with using R and github.
+* Goal 2 Gain proficiency in developing an educational data solution.
+* Goal 3 To be able to do data mining in real education technology industry. 
+
+## Video Review 
+
+The class videos are short but comprehensive and precise. I would keep the length and change the upload frequency. 
+
+|Skill|Score|
+|-----|-----|
+|R    |1    |
+|Good |Knowledgeable|
+
+## The is how I am feeling about the semster
+
+![My feelings](Daniel-Mazzone_VangoghBurt.jpeg)
+
