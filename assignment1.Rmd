@@ -1,6 +1,51 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Berj Akian"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Me and My Git
+
+[My Github Profile](https://github.com/berjakian)
+
+## My Goals for HUDK4050  
+
+Below are a few of my goals for this class.  
+
+* I'd like to become comfortable using R  
+* I'd like to learn to do regression analysis
+* I'd like to learn to make a basic Shiny App
+
+## Video Review 
+
+I'm impressed with the videos for this course. I continue to believe they are created and produced with a degree of polish I am not likely to experience in other courses here at TC. Nonetheless I'm asked to share review points. As it turns out, I am very well practiced at providing production edit points for videos (in my day gig, our organization has produced hundreds of explanatory, training, and testimonial videos, and i am very particular in my reviews of those videos). So here's some thoughts.
+
+#### things i like 
+
+* you have outstanding eye contact ⭐⭐⭐
+* your telepromtping is very well done  ⭐⭐⭐
+* your screencaptures and chyron are done very well and smoothly integrated ⭐⭐⭐
+
+
+#### things i would change 
+
+* all video links from your bookdown.org course page should open in a new tabs, this allows the course page to always remain on its original tab 
+* ~14 second intro is too long... try for ~5 sec 
+* end as many videos as possible with some type of 'what did you learn' screen 
+* your productions deserve and outro... try for ~5 seconds
+* your debonair voice sometimes gets raspy, hydrate before and during breaks. 
+
+## Skill Building 
+
+
+|skill to improve|current score (1to10)|goal score (1to10)|
+|:-:|:-:|:-:|
+|r and r studio|-28 😥|6 😃|
+|manipulating extremely large datasets without using spreadsheets|-83 😓|7 😄|
+|regression analysis|-6.023x10^23^ 😔|7 😁|
+
+
+
+## This is how I'm feeling about this semester
+![*Me each morning... well some mornings... eh, one morning a long time ago*](smiley2.png)
