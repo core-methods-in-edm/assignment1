@@ -1,6 +1,33 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Zhou Yuting"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/Daisy90s)
+
+## My Goals for HUDK4050
+
+* To develop understanding of how new data sources can be used in education 
+* To hone my skill sets in analyzing and evaluating data sets via new technologies  
+* To utilize my funds of knowledge and apply to broader practices in life  
+
+## Video Review
+
+I love the entry scene with music--very aesthetically pleasing and engages me better to the later content. I would also keep the length as well as the structure of the video because they are concise and effective. For things to change, I would love to see more graphs and pictures in the video. 
+
+| Skill     | Score |
+| Photoshop |  3    |
+| Effective | Great |
+
+## This is how I am feeling about the semester
+
+![My feelings](Energized.jpeg)
+
+
+
+
+
