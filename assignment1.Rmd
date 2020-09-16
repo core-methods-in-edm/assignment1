@@ -1,6 +1,29 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Fangyu Ruan"
+date: "9/11/2020"
 output: html_document
 ---
+
+
+# Assignment 1 
+[my github profile](https://github.com/louiserr98)
+
+## My Goals for HUDK4050 
+
+   + Be able to use Rstudio smoothly 
+   + Understand the power of date 
+   + use data to tackle a problem(maybe?)
+
+## Video Review
+I would get to know more about the terms and use of Rstudio keep being curious about R.
+
+Skill | Score
+- | :-: 
+Dance | 90
+Rmarkdown | 10
+It's really basic and useful | hope it could be more detailed  
+
+## This is how I am feeling about the semester
+
+![My feelings](1.jpg)
