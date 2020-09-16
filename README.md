@@ -7,13 +7,13 @@
 *get to know at least one classmate
 
 ## Video Review
-* 
+* What I like about the videos: clear instructions and scaffolding on coding. What I might want to change: some videos are only available at 360p and look a little fuzzy to me. 
 
 
 |Skill           |              Score|
-|---------------:|------------------:|
+|:---------------|:------------------|
 |Figure Skating  |                3  |
-| I feel the instructions and demonstrations in the lectures so far are very clear and helpful. However, I encountered some unexpected issues that were not illustrated in the video, probably because it was my first time creating a Git project in R and it required me to set up some sort of paths. It would be great if those potential problems (as solutions) are covered by the video as well.   | Also, perhaps some animation would help keep audience's attention better. |
+| I feel the instructions and demonstrations in the lectures so far are very clear and helpful. However, I encountered some unexpected issues that were not illustrated in the video, probably because it was my first time creating a Git project in R and it required me to set up some sort of paths. It would be great if those potential problems (as solutions) are covered by the video as well.   | Perhaps some animation would help keep audience's attention better. |
 
 
 ## This is how I am feeling about the semester
