@@ -2,12 +2,13 @@
 [link](https://github.com/Cypress2019) 
 
 ## My Goals for HUDK4050
-*gain R proficiency
-*further develop data-analytical thinking
-*get to know at least one classmate
+* gain R proficiency
+* further develop data-analytical thinking
+* get to know at least one classmate
 
 ## Video Review
-* What I like about the videos: clear instructions and scaffolding on coding. What I might want to change: some videos are only available at 360p and look a little fuzzy to me. 
+* What I like about the videos: clear instructions and scaffolding on coding. 
+* What I might want to change: some videos are only available at 360p and look a little fuzzy to me. 
 
 
 |Skill           |              Score|
