@@ -14,11 +14,12 @@
 |Skill           |              Score|
 |:---------------|:------------------|
 |Figure Skating  |                3  |
-| I feel the instructions and demonstrations in the lectures so far are very clear and helpful. However, I encountered some unexpected issues that were not illustrated in the video, probably because it was my first time creating a Git project in R and it required me to set up some sort of paths. It would be great if those potential problems (as solutions) are covered by the video as well.   | Perhaps some animation would help keep audience's attention better. |
+| I feel the instructions and demonstrations in the lectures so far are very clear and helpful. However, I encountered some unexpected issues that were not illustrated in the video, probably because it was my first time creating a Git project in R and it required me to set up some sort of paths. It would be great if those potential problems (and solutions) are covered by the video as well.   | Perhaps some animation would help keep audience's attention better. |
 
 
 ## This is how I am feeling about the semester
 
+![My Feelings](https://github.com/Cypress2019/assignment1/blob/master/ETKtcRCWAAEC2US.jpg)
 
 ## Part A: Installation & Account Setup
 
