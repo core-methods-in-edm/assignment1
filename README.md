@@ -9,9 +9,10 @@
 ## Video Review
 * I feel the instructions and demonstrations in Lecture 2.4 are very clear and helpful. However, I encountered some unexpected issues that were not illustrated in the video, probably because it was my first time creating a Git project in R and it required me to set up some sort of paths. It would be great if those potential problems (as solutions) are covered by the video as well. Also, perhaps some animation would help keep audience's attention better.
 
-|Skill          | Score|
-|--------- :|------------------:|
-|Figure Skating :|3:|
+
+|Skill           |              Score|
+|---------------:|------------------:|
+|Figure Skating :|                 3:|
 
 
 
