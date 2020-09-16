@@ -1,6 +1,34 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Sara Vasquez"
+date: "9/12/2020"
 output: html_document
 ---
+# Assignment 1 
+[This is a link to my Github Profile](https://github.com/saracv).
+
+## My Goals for HUDK4050
+
+* Learn ways to use data science in education to understand learning.
+
+* Understand good practices, and responsible ways of using data.
+
+* Improve the way I code so is easier for a third party to understand.
+
+## Video Review
+So far I have found the videos to be informative, and a good supplement to the assignments. I would like to see more examples or exemplars.I would also like to see more advance uses of the skills or software taht is covered on teh videos to see what is possible or why we are learning these skills. 
+
+Skills        | Score
+------------- | -------------
+Use Rmarkdown | 4/10
+I like that the videos are small and easy to digest  | More examples and exemplars
+
+## This is how I am feeling about the semester
+
+![The Possibilites this semester brings](Colors.jpg)
+
+
+
+
+
+
