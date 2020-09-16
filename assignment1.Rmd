@@ -2,8 +2,7 @@
 title: Assignment 1
 output: html_document
 ---
-
-Github Profile Link: https://github.com/AndyChenHe
+[Github Profile Link](https://github.com/AndyChenHe) 
 
 ##My Goals for HUDK4050
 
@@ -14,6 +13,11 @@ Github Profile Link: https://github.com/AndyChenHe
 
 ## Video Review
 Videos' contents are nice and concise. All instructions are pretty clear and organized. I hope we can keep this concise form.
+
+| Skill | Score |
+| --- | --- |
+| Coding | 4 |
+| I love all videos | some are blurred |
 
 
 ```{r}
