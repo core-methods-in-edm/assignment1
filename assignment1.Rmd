@@ -1,6 +1,24 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Yuxuan Ge"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+[My Github Profile](https://github.com/yuxuan1113)
+
+## My Goals for HUDK4050
+* Proficiently Using R
+* Master Data Analytics Skills
+* Get Grade A
+
+## Video Review
+Demonstrating too fast for some practices and examples, and I need to pause the video over and over again in order to follow the steps
+
+| Skill | Score |
+|:-----:|:-----:|
+| Programming | 3/10 |
+| Videos' length are appropriate | Most contents are clear | 
+
+## This is how I am feeling about the semester
+![My feelings](duck.jpeg)
