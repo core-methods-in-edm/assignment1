@@ -4,15 +4,18 @@ author: "Hangshi Jin"
 date: "9/12/2020"
 output: html_document
 ---
-# Assignment 1 {#anchor}
-To my Github profile: [link](https://github.com/jinhangshi2008)
+# Assignment 1
 
-## My Goals for HUDK4050 {#css_id}
+[To my Github profile](https://github.com/jinhangshi2008)
+
+## My Goals for HUDK4050
+
 - Learn how to make beautiful and creative visualizations
 - Learn how to clean and mine data
 - Learn how to master R
 
-## Video Review {#css_id}
+## Video Review
+
 The video classes were made pretty well on the descriptions for every piece of knowledge and clear on step-by-step instructions. I would keep the videos short and precise.
 
 | Skill | Score |
@@ -20,6 +23,7 @@ The video classes were made pretty well on the descriptions for every piece of k
 | Visualization | 5 |
 | Precise | Clear |
 
-## This is how I am feeling about the semester {#css_id}
-![Caption](Luffy_gear2nd.jpg)
+## This is how I am feeling about the semester
+
+![Gear 2nd, steam jet power](Luffy_gear2nd.jpg)
 
