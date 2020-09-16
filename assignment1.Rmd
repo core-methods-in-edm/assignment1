@@ -1,6 +1,31 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Berj Akian"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/berjakian)
+
+## My Goals for HUDK4050  
+
+* Goal 1
+* Goal 2
+* Goal 3
+
+## Video Review 
+
+some narrative
+
+* Item 1
+* Item 2
+* Item 3
+
+
+| skill            |  score (1to10)   |
+| skillname        | score            |
+
+## This is how i'm feeling about this semester
+![Me each morning... well some mornings... eh, once a long time ago](smiley2.png)
