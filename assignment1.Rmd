@@ -1,6 +1,31 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Yifei Zhang"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/Yifei0710)
+
+## My Goals for HUDK4050
+
+* Gain proficiency in developing an educational data solution from start to finish.
+* Gain proficiency in R.
+* Build up my Github.
+
+## Video Review
+
+* I really like the design, pictures and music of the beginning of the video. It captures my attention immediately.
+* What I would change: The volume of the video could be louder.
+* What I would keep:  I like keeping the video short and each video just elabrates on one topic. The organization of the content is very clear and informative. 
+
+| Skill | Score |
+|-----:|:-----|
+|R|3/10|
+|I like it very much!| The pace is very good!|
+
+## This is how I am feeling about the semester
+
+![Excited](Excited.jpeg)
