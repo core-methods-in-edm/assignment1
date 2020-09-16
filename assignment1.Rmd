@@ -1,6 +1,29 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Ali Al Jabri"
+date: "9/11/2020"
 output: html_document
 ---
+
+# Assignment1 
+
+[ My githup profile page](https://github.com/Ali93NY)
+
+## My Goals for HUDK4050 
+- Improving my skills in R
+- Learning about Github and version control
+- Exploring educational data
+
+## Video Review
+I like the class videos and they are very creative, but the voice is not clear
+on them so I would suggest to improve the voice quality.
+
+| Skill | Score | 
+|-|-|
+|R Programming|7|
+|Voice|Requires improvement|
+|Video Score|8|
+
+## This is how I am feeling about the semester
+![My feeling](image.png)
+
