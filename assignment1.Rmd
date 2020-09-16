@@ -1,6 +1,30 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Phil Mendoza"
+date: "9/15/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+Here is [my github page](https://github.com/phil-mendoza).
+
+## My Goals for HUDK4050
+
+* apply statistics practices to the data I pull on the job
+* centralized my data curation
+* have fun doing the first two things
+
+## Video Review
+
+I think I'd get rid of the creepy backward playing music. It reminds me of The Exorcist, which I love, but would prefer not to think about it will looking at you, Prof. Lang.
+
+|Skill    |Score    |
+|---------|---------|
+|Analysis   | 6   |
+|Well produced|   Simple instructions thus far|
+
+## This is how I am feeling about the semester
+
+![multitasking icon](multi.jpg)
+
