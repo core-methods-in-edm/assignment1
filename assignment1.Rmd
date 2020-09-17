@@ -1,6 +1,37 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Daniel Kwak"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1 
+
+[github](https://github.com/danguac)
+
+## My Goals for HUDK4050
+
+
+*To learn how to use R
+
+*To learn how to use R to manipulate data
+
+*To succeed in this class!
+
+
+## Video Review
+
+I liked the lengths of the videos. 
+They are very manageable and engaging. 
+I wouldn't really change anything. 
+
+|Skill|Score|
+|----:|:---:|
+|research|   7   |
+| quick  | simple|
+
+## This is how I am feeling about the semester
+
+![Waiting for spring](/Users/danielkwak/Downloads/waiting.png)
+
+
