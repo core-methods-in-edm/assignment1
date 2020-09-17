@@ -1,0 +1,67 @@
+---
+title: "Submission 1"
+author: "Vidya Madhavan"
+date: "15/09/2020"
+output: html_document
+---
+# Assignment 1
+
+[Vidya Madhavan - GitHub Profile](https://github.com/vm239)
+
+---
+
+## My goals for HUDK 4050, Fall 2020
+
+* **Goal I:**  
+To be able to understand, decompose and represent large data-sets in meaningful ways from which inferences can be made.
+
+* **Goal II:**  
+To be adept at the coding modules we are introduced to during this course, try out new projects on Github and use this as a springboard to expand my horizons into the field of data science.
+
+* **Goal III:**  
+To gain a better depth of understanding into the future of data in Education by being updated and inspired by current developments in the area.
+
+---
+
+## Video Reviews
+
+### *Welcome to HUDK4050*  
+I really enjoyed how this video effectively communicated the essence of the course and anticipated skill development without a magnified focus on specifics like grading and assignment submissions. 
+
+### *R/RStudio & Git/Github*  
+The course website walk-through was very precise and useful. Mentioning the opportunities available to involve ourselves with data-science related events was a great way to inspire initiative in us. 
+
+### *R/RStudio*   
+The background information about R was relevant and provided clarity about why we were using this tool in educational data mining. I felt there was a lot of information in this video and needed to re-watch it in order to retain some of the things I found interesting, though I had no qualms about it and do not necessarily think it could have been structured more efficiently in any other way.
+
+### *Git & GitHub*
+I feel the introduction to both Git and Github were chronological and efficient. I was happy that Professor Lang shared our general frustrations about the complex process involved in making local and Github changes and am glad that he validated the need for them.
+
+### *Git Exercise*
+This video was very self explanatory and I found it to be easy to follow, being from a non-tech background. It was good practice and helped me appear a little less clueless in our first coding workout that happened a few days later.
+
+### *RMarkdown*
+I found the instructions easy to follow, and screen-sharing was a very efficient way to help us proceed at our own pace. It would be great if there was a separate video exclusively for troubleshooting some common errors that are known to arise. This could be a quick fix for students who may feel a bit overwhelmed at the technicality of the solutions available online and prefer not to book an office hour appointment for a small issue. 
+
+### *Visual Analysis of Entrance Survey Results*
+This video explained how R allowed data that was collected through the survey to be presented in a consumable form to make further inferences. I appreciated that it was an opportunity for us to  experience the process end to end, and be prepared for some of the more complex functions that are to come. 
+
+---
+
+| Skill | Score |
+|-----|-----|
+|Coding|2|
+|*Overall Feedback 1*: The pace of the videos and activities suits me perfectly, not too slow, not too fast- just right!|*Overall Feedback 2*: The comparison of R with other coding languages is especially helpful, as it provides an initial overview of the merits and shortcomings of the tool which could help us make better decisions based on the demands of a particular problem, while also providing a window into other languages which could prove useful in our data-science journeys|
+
+---
+
+
+## This is how I am feeling about the semester
+
+
+![Mirror Mirror!](CoolCat.jpg)
+
+
+
+
+
