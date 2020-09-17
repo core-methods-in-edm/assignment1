@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Chris Kim"
+date: "9/17/2020"
 output: html_document
 ---
+##Assignment 1
+
+My URL like (https://github.com/chk2145/)
+
+##My Goals for HUDK4050
+-Get comfortable working with R
+-Get more hands experience working with bit data
+-Compare and Contrast R and Python
+
+##Video Review
+The videos are concise and well-structured
+
+Skill                |     Score                     
+__________________________________________
+Coding skills        |       3                       
+The videos are       | concise and helpful           
+
+##This is how I am feeling about the semester
+
+[!My feelings](excited.jpg)
