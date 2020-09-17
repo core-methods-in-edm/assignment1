@@ -4,3 +4,28 @@ author: "YOUR NAME"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/StevenLu1213)
+
+## My Goals for HUDK4050
+
+* Goal 1 Know basic functions and operation of R 
+* Goal 2 Start basic level of data-related coding 
+* Goal 3  Learn further without external assistance
+
+## Video Review
+
+It might be better if Charles could wear a pair of earphone or prepare a mic, as sometimes the voice is a bit deep, and it might be unclear to be heard.
+It is good to see those special terms or codes demonstrated in the video synchronously when they are being discussed.
+
+
+|  Skill | Score |
+| Coding |   1   |
+| Handsome teacher | Very detailed and well-explained |
+
+
+## This is how I am feeling about the semester
+
+![My feelings](roar.jpg)
