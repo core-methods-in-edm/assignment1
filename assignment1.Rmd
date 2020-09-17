@@ -1,6 +1,34 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Rong Sang"
+date: "9/17/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github Profile](https://github.com/rs4099)
+
+## My Goals for HUDK4050
+
+* Goal 1 Gain data mining skills to help me look for, define and solve real world problems
+* Goal 2 Apply these skills to do excellently in product analytics and data visualization & presentation
+* Goal 3 Get data science mindset
+
+## Video Review
+
+Best online course video ever! Fun and cute! 
+* What I would keep: Expression of course content | Video design | BGM!
+* What I would change: Add a place where students can communicate and interact with each after learning the videos. If there is a certificate to show I finish the course or a function can track my learning process, that would be great.
+
+| Skill | Score |
+| ----- | ----- |
+| Programming | 1 |
+| Like it | Fun |
+
+## This is how I am feeling about the semester
+Hungry for Knowledge:)  
+@ Hanshan Temple, Suzhou City, China
+
+![My feeling](Photo.jpg)
+
