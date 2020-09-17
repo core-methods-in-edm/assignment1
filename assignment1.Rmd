@@ -1,6 +1,34 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Yingxin Ye"
+date: "9/18/2020"
 output: html_document
 ---
+# Assignment 1
+
+[My Github Profile](https://github.com/yipyye)  
+
+## My Goals for HUDK4050    
+
+* Learn more about coding  
+* Learn more about data mining
+* Have fun  
+
+## Video Review
+
+I really like the video transcript, it helps to get to know the vocab, especially for the new learners in this field.  
+
+ | Skill          | Score              |  
+ | Coding         | 3                  |  
+ |video transcript| Speed up the pacing|  
+
+
+## This is how I am feeling about the semester
+![My feelings](this_semester.jpeg)
+
+
+```{r}
+
+```
+
+
