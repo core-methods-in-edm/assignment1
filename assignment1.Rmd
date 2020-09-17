@@ -1,6 +1,32 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Melika Ghayoomi"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+
+[My Github Profile](https://github.com/melikaghayoomi)
+
+## My Goals for HUDK4050
+
+* To learn the details about coding and programming 
+* To be able to use R without the cheat sheet 
+* To get more ideas about the data science world 
+ 
+
+## Video Review
+
+Everything is clear in the videos, I like them.
+
+
+Skill              | Score
+-----------------  | ---------------
+coding             |  0
+Analyzing the data |  0
+Working with R     |  3
+
+## This is how I am feeling about the semester
+
+![My Feelings](MyFeelings.jpg) 
+
