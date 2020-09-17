@@ -6,7 +6,7 @@ output: html_document
 ---
 
 # Assignment 1
-https://github.com/amanda-ago
+[My Github](https://github.com/amanda-ago)
 
 ## My Goals for HUDK4050
 * Learn how to code in R
