@@ -1,0 +1,31 @@
+---
+title: "Assignment 1"
+author: "Xiyun Zhang"
+date: "9/16/2020"
+output: html_document
+---
+
+# Assignment1
+
+[My Github Profile](https://github.com/XiyunZhang-Silvia)
+
+## My Goals for HUDK 4050
+
+* Goal 1 : Learning more Data Analytical skills and tools
+* Goal 2 : Getting more involved in the class
+* Goal 3 : Attending some virtual meetings and  making some friends who have the same career goal (Data Analyst) as me
+
+## Video Review
+
+Class Videos so far are excellent.
+
+ | Skill  | Score |
+ |--------|-------|
+ | Coding | 4     | 
+ | Good   | Good  |
+ 
+## This is how I am feeling about the semester
+
+![My feelings](Tom.jpg)
+ 
+
