@@ -4,3 +4,28 @@ author: "YOUR NAME"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+
+[My Github Profile](https://github.com/RuoyiZh)  
+
+## My Goals for HUDK4050   
+
+* Goal 1: Finish all the homework on time
+* Goal 2: Note down all the important tips
+* Goal 3: Spend more time on this class  
+
+## Video Review   
+I like all the videos so far. They are short and nice. I would keep the style but try improve the quality of the video. It seems not that clear when it comes to screen sharing.  
+
+| Skill | Score |
+|:-----:|:-----:|
+| driving |  1  |
+| nice  | interesting |  
+
+## This is how I am feeling about this semester  
+
+![My feelings](hw.jpeg)
+
+
+
+

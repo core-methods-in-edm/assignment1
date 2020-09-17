@@ -1,5 +1,5 @@
 # Assignment 1
-
+I AM NOT SURE WHETHER I AM MAKING CHANGES AT THE CORRECT PLACE... IF NOT, SORRY...
 ## Part A: Installation & Account Setup
 
 In this assignment you will be setting up the software and online tools that you will be using throughout this course. Below there are links and instructions to relevant sites.
