@@ -1,6 +1,28 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Jiahao Shen"
+date: "9/17/2020"
 output: html_document
 ---
+
+# Assignment 1 {#anchor} 
+[My Github Profile](https://github.com/Remishen)
+
+## My Goals for HUDK4050 {#css_id} 
+ + Learn to be proficient in RMarkdown.
+ + Learn to deal with data and make meaning from data.
+ + learn to improve educational systems and processes.
+ 
+## Video Review {#css_id} 
+I like those class videos so far. They are clear and vivid.
+Especially the background music at the beginning and the end.
+It is fancy and interesting.
+
+| Skill | Score |
+|:------|:------|
+| Photograph                 | 6                                  |
+| Cooking                    | 4                                  |
+| Class Videos are great.    | It can be longer and more detailed.| 
+
+## This is how I am feeling about the semester {#css_id}
+![](IMG_8164.JPG)
