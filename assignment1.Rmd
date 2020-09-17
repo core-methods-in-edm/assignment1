@@ -4,3 +4,27 @@ author: "YOUR NAME"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+
+[https://github.com/core-methods-in-edm/assignment1.git]
+
+## My goals for HUDK4050  
+
+* I want to receive an A in the course
+* I want to become highly proficient with R
+* I want to be ready for the job market upon graduation by using the information I learn in this course.
+
+## Video Review  
+
+The videos are highly informative and clear.
+
+| Skill          | Score | 
+| Weight lifting | 2     |
+| Great          | Good  |
+
+## This is how I am feeling about the semester
+
+![How I feel](unnamed.png)
+
+
+
