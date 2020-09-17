@@ -1,6 +1,19 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Qianli Zhao"
+date: "9/17/2020"
 output: html_document
 ---
+# Assignment 1
+[personal profile](https://github.com/Qianli2020)
+## My goals for HUDK4050
+* Coding
+* enjoying
+## Video Review
+The video transcript make my work easy!
+| Skill | Score|
+|:--|:--|
+|coding|1|
+|cool|hard|
+## This is how I am feeling about this semester
+![Mood text](https://news.artnet.com/market/nada-miami-2019-trends-1724091/logo.png)
