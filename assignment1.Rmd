@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Jiani Yang"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1 {#anchor}
+
+[My Github Profile](https://github.com/jy2893)
+
+## My Goals for HUDK 4050 {#css_id}
+* Learn how to use R Markdown.
+* Learn how to use R language fluently.
+* Acquire the skills to understand and operate data mining in education.
+
+## Video Review {#css_id}
+For the RMarkdown video, I would like to have more examples of using RMarkdown to make notes. I like the 
+length of all videos I have seen so far, keep things short and sweet. 
+
+|   Skill  |                            Score                       |
+|----------|--------------------------------------------------------|
+|     R    |                             2                          |
+|All videos|I hope when I click videos, they can open in a new tab. |
+
+## This is how I am feeling about the semester {#css_id}
+![My feelings](image.jpg)
