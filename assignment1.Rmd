@@ -1,6 +1,33 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Nicole Schlosberg"
+date: "9/15/2020"
 output: html_document
 ---
+
+# Assignment 1 
+[My Github Profile](https://github.com/nicole-schlosberg)
+
+## My Goals for HUDK4050
+
+* I want to learn R  
+* I want to expand my data analysis skills  
+* I want to learn data mining  
+
+## Video Review
+
+I like the videos. I think its helpful that you have the comments under it too.
+
+| Skill | Score |
+|--|--|
+| Analytics | 5 |
+| Problem solving | 8 |
+
+## This is how I am feeling about the semester
+
+![My feelings](excited.jpeg)
+
+```{r}
+
+```
+
