@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "WENQI GAO"
 date: "9/8/2020"
 output: html_document
 ---
+
+# Assighment1 
+
+<https://github.com/ChloeG77>
+
+## My Goals for HUDK4050 
+* Be Familiar with R and R studio
+* Be able to do data visualization
+* Improve basic data minning and analysis techniques
+
+## Video Review
+  I like the class videos with keywords appear on the screen to highlight. Hope this could be keeped in the whole quarter.
+  
+| Skill | Score |
+|-----|-----|
+| R and R studio | 1/10 |
+|It might be better if the caption is provided.  | Will appreciate if there're more coding demos embeded in the videos |
+
+## This is how I am feeling about the semester
+![](422810.jpg)
