@@ -10,7 +10,7 @@ My URL like (https://github.com/chk2145/)
 
 ##My Goals for HUDK4050
 -Get comfortable working with R
--Get more hands experience working with bit data
+-Get more hands experience working with big data
 -Compare and Contrast R and Python
 
 ##Video Review
