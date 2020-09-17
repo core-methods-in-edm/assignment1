@@ -1,6 +1,30 @@
 ---
-title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+title: "Assignment 1 - Part B"
+author: "Amanda Oliveira"
+date: "9/10/2020"
 output: html_document
 ---
+
+# Assignment 1
+[My Github](https://github.com/amanda-ago)
+
+## My Goals for HUDK4050
+* Learn how to code in R
+* Learn how to use R for data analysis. Current experience: Stata
+* Get introduced to big data in Education. Current experience: Statewide and Nationwwide longitudinal data systems in Education. 
+
+
+## Video Review 
+* The way the content is distributed, in short videos, is very effective and easy to follow.
+* It would be helpful to have the content made available according to a certain schedule. For instance, knowing that new content posts at 5pm T/R would make my weekly planning a lot easier. This way I would be able to set aside a certain time to study and work on the projects. 
+* Would be helpful to have video transcripts available in the Youtube video description. 
+
+
+| Skill | Score |
+|-----| ----|
+| Data Analysis in R | 4/10 | 
+| It does not make sense to add my "opinion of the class videos" to this Skill/Score table | But since you asked, I like the videos and am looking forward to the next ones | 
+
+
+## This is how I am feeling about the semester 
+![A.Calder, Untitled](download.jfif)
