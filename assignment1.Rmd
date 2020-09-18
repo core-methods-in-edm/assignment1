@@ -1,6 +1,20 @@
----
+Assignment 1
 title: "Assignment 1"
-author: "YOUR NAME"
+author: Shuying
 date: "9/8/2020"
 output: html_document
----
+My Github profile page: https://github.com/shuying129
+
+My Goals for HUDK4050
+Overcome the fear of coding
+Have a certain understanding of data analysis.
+Master how to do the data analysis via R.
+
+Video Review
+I will try my best to attend the live class. I will keep to review the video on time.
+
+|     Skill     | Score |
+|operate rstudio|    3  |
+|      good     |  good |
+
+This is how I am feeling about the semester
