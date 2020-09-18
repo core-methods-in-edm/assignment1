@@ -4,3 +4,29 @@ author: "YOUR NAME"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1 
+https://github.com/qiqi1313114
+
+
+## My Goal For HUDK4050
+* Learn how to use R 
+* Learn how to collect and analyze data with R
+* Get to collaborate with my classmates 
+
+## Video Review 
+I would say these videos are really succinct and easy to understand,  
+so I would say most of things should be kept.  
+However, I do think the script can be organized better so that we don't  
+have to drag all the way to the right to see it. 
+
+Skill    | Score 
+---------| ---------
+R        | 1
+Succint  | Easy to understand
+
+
+## This is how I am feeling about the semester 
+![alt text](/Users/liufangqi/Desktop/HUDK 4050/Fangqi Liu assignment1/xxx.png)
+
+
+
