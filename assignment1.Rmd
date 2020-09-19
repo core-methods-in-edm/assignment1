@@ -1,6 +1,25 @@
+
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Fei Wang"
+date: "9/17/2020"
 output: html_document
 ---
+# Assignment 1 {#anchor}
+https://github.com/fw2347
+
+## My Goals for hudk4050 {.css_class}
+ - As a novice in programming, I hope to develop my coding skills and become more familiar and competent in data mining. 
+ - By taking more practices and build my own projects, I hope to better understand how various softwares work on a deeper level.
+ - I would also like to learn from others and develop programming skills in a community like this class. 
+ 
+## Video Review {.css_class}
+I really enjoyed watching these class videos. Having both the voice instruction with the visual display helped me a lot to make sense of the steps I need to go through. I appreciate the how detailed and also concise these videos are. For example, in lecture 2.4 git exercise, I like how in the end there is a list of main steps as a summary for the process. It makes it easier to understand and follow. 
+
+|Skill|Score|
+|----:|:---:|
+|Data Analytics|5|
+|Videos are great!|Concise and informative|
+
+## This is how I am feeling about the semester
+![busy](busy.jpg)
