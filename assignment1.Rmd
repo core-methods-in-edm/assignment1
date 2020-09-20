@@ -1,6 +1,26 @@
----
-title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
-output: html_document
----
+# Assignment 1
+
+https://github.com/ssz2119
+
+## My Goals for HUDK4050
+
+* Get familiarize with R, RStudio, Git, and Github
+* Learn coding
+* Participate in all 5 Hackathon
+
+## Video Review
+
+I think all the class videos were very informative especially the git exercise video, which clearly shows each step for working an repository.
+I would like to keep videos short but also instructive instead of having super long videos that are tedious.
+I would also like to see more instruction videos such as the git exercise because it will help students who have no past experience in coding.
+
+| Skill | Score | 
+|:-----:|:-----:|
+| Coding | 5 |
+| Succinct | Explanatory |
+
+## This is how I am feeling about the semester
+
+![Exciting](exciting.jpeg)
+
+
