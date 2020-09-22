@@ -9,6 +9,8 @@ output: html_document
 
 ```
 
+
+
 # Assignment 1
 https://github.com/ZoeMeowww
 
@@ -21,6 +23,7 @@ https://github.com/ZoeMeowww
 All great videos
 
 | Skill  | Score |
+|--------|-------|
 | Coding | 1 |
 | great  | easy to understand |
 
