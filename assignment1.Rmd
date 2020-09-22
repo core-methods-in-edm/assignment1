@@ -10,7 +10,7 @@ output: html_document
 ```
 
 # Assignment 1
-https://github.com/ZoeMeowww/assignment1
+https://github.com/ZoeMeowww
 
 ## My Goals for HUDK4050
 * Learn R Language
@@ -20,8 +20,10 @@ https://github.com/ZoeMeowww/assignment1
 ## Video Review
 All great videos
 
+| Skill  | Score |
+| Coding | 1 |
+| great  | easy to understand |
 
-    Skill Score   
-   Coding   1
+![](pic.jpg)
 
 ## This is how I am feeling about the semester
