@@ -5,12 +5,6 @@ date: "9/16/2020"
 output: html_document
 ---
 
-```{r}
-
-```
-
-
-
 # Assignment 1
 https://github.com/ZoeMeowww
 
