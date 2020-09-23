@@ -4,3 +4,22 @@ author: "YOUR NAME"
 date: "9/8/2020"
 output: html_document
 ---
+#Assignment 1
+https://github.com/yzh193
+
+##My Goals for HUDK4050
+* learn coding
+- learn data mining
++ learn more computer languages
+
+##Video Review
+The videos are good intro of R/Rstudio/Git/Github. I got more understanding of R studio and Github even though I have used before. I think the videos are very instructive but I hope they can last longer.
+
+|   Skill  |    Score    | 
+|  :------ |    -----:   |
+|     R    |      2      | 
+|  helpful | instructive | 
+
+
+##This is how I am feeling about the semester
+! [ ] (https://github.com/yzh193/assignment1-1/blob/master/emoji.jpg)
