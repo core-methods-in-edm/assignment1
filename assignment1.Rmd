@@ -1,6 +1,26 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "ZOE WANG"
+date: "9/16/2020"
 output: html_document
 ---
+
+# Assignment 1
+https://github.com/ZoeMeowww
+
+## My Goals for HUDK4050
+* Learn R Language
+* Learn EDM
+* Explore data analysis with classmates & professor
+
+## Video Review
+All great videos
+
+| Skill  | Score |
+|--------|-------|
+| Coding | 1 |
+| great  | easy to understand |
+
+![](pic.jpg)
+
+## This is how I am feeling about the semester
