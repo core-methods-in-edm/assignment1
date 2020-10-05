@@ -1,6 +1,27 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Yujie Yang"
 date: "9/8/2020"
 output: html_document
 ---
+# Assignment 1
+[My Git Hub Profile](https://github.com/yy3031)
+
+## My Goals for HUDK4050
+
+* learned R studio
+* learned git
+* Improved analytical skills
+
+## Video Review
+
+A really good way for me to replay the memory every time I needs.
+
+|Skill|Score|
+|----|----|
+|analytics|3.5|
+|Good for reviewing|The quality of the picture is not that good|
+
+## This is how I am feeling about the semester
+![My feelings](smile.jpg)
+
