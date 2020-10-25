@@ -1,6 +1,29 @@
 ---
-title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+title: "Assignment"
+author: "Shuying Xiong"
+date: "10/25/2020"
 output: html_document
 ---
+
+# Assignment 1
+
+[My Github profile](https://github.com/shuying129)
+
+## My Goals for HUDK4050
+
+* Goal 1 Do not be afraid of the difficulities
+* Goal 2 Learn some R skills 
+* Goal 3 Make some friends
+
+## Video Review
+
+Vidoes are really good, it can pause and repeat when I have some troubles.
+
+| Skill | Score |
+|-------|-------|
+|Rstudio|  6    |
+|video is really good|I will watch it carefully|
+
+## This is how I am feeling about the semester
+
+![My Feelings](Fighting.png)
