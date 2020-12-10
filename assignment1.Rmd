@@ -18,12 +18,15 @@ output: html_document
 
 My table:
 
+
  Skill | Score |
 |------:|:-----|
 | Language | 8 |
 | Videos | Perfect |
 
 
+
 ![My feeling](perfect.jpg) 
+
 
 ## This is how I am feeling about the semester
