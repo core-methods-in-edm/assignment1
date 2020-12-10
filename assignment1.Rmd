@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-author: "Xing Yixie"
+author: "Xingyi Xie"
 date: "9/8/2020"
 output: html_document
 ---
