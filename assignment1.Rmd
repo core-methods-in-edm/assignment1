@@ -1,6 +1,33 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
-date: "9/8/2020"
+author: "Kari Li"
+date: "1/15/2021"
 output: html_document
 ---
+
+# Assignment 1
+
+[Kari Li's Githun profile page](https://github.com/Kaririri)
+
+
+## My Goals for HUDK 4050
+
+- Learn basic learning analytics theories and application
+- Finish the seven course projects on time
+- Attend six office hours
+
+
+## Video Review
+
+I have seen the SQL 1.1 | Introduction to Relational Databases & SQL. It is a great introduction to SQL with some background knowledge and its importance and applications in job seeking process. One thing that I wish could be better would be the audio because I was having a hard time to hear the voice clearly.
+
+
+| Skill | Score |
+|---|---|
+| coding | 3 |
+| Good introducation | Wish some termologies could be explained in the video or in a separate document to provide additional background information to a complete beginner |
+
+
+## This is how I am feeling about the semester
+![alt text](E:/Learning Analytics/assignment1/feeling.jpg "Hello Covid-19")
+
