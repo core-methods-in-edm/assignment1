@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-author: "YOUR NAME"
+author: "Borui Yu"
 date: "9/8/2020"
 output: html_document
 ---
